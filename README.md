@@ -18,4 +18,4 @@ Execute `git clone git@github.com:cleydyr/biblivre5-docker.git`. O código estar
 Baixe o [arquivo zip com o código](https://github.com/cleydyr/biblivre5-docker/archive/master.zip) e extraia.
 
 ## Executando o contêiner.
-Usando um terminal, vá até a pasta de código, onde está o arquivo docker-compose.yml e execute docker-compose up. Em instantes sua isntância do Biblivre 5 estará acessível em localhost:8080/Biblivre4.
+Usando um terminal, vá até a pasta de código, onde está o arquivo docker-compose.yml e execute docker-compose up. Em instantes sua instância do Biblivre 5 estará acessível em localhost:8080/Biblivre4.
